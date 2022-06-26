@@ -1,4 +1,4 @@
-const { init } = require("express/lib/application")
+
 
 /* 1. What is lexical structure?
 ANS: A set of basic rules in programming language about how to write code init.
